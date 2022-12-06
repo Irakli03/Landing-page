@@ -1,2 +1,2 @@
 # Landing-page
-Click on index.html to open the file.
+This is my first Landing Page.
